@@ -1,17 +1,17 @@
 Blog personal.
 
-#[Descripción del proyecto]
+# [Descripción del proyecto]
 
-#[Instalación]
+# [Instalación]
 - Requisitos
 - Versión
 - Encargados
 
-#[Uso]
+# [Uso]
 De qué trata y cómo se utiliza (además de cómo se desarrolla).
 
-#[Documentación]
+# [Documentación]
 
-#[Roadmap]
+# [Roadmap]
 
-#[Licencia]
+# [Licencia]
